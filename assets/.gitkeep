@@ -1,0 +1,9 @@
+# Assets Directory
+
+Place architecture diagrams, screenshots, and visual examples here.
+
+Suggested images:
+- architecture-diagram.png (system architecture overview)
+- workflow-example.png (n8n workflow visualization)
+- database-schema.png (PostgreSQL schema diagram)
+- system-flow.png (data flow diagram)
